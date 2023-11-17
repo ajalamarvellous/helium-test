@@ -54,4 +54,10 @@ Project Organization
 
 --------
 
+The major folders to look are 
+* notebooks -> for the exploratory and modeling notebook
+* src/deployment -> for the deployment script
+* Dockerfile
+* and data for the raw and processed data
+
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
